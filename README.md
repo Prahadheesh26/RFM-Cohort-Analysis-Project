@@ -109,11 +109,13 @@ This project solves these problems by applying **RFM segmentation** and **Cohort
  ┣ 📓 rfm_cohort_analysis.ipynb
  ┣ 📊 visualizations/
  ┗ 📄 README.md
-✅ Conclusion
+```
+## ✅ Conclusion
 RFM and Cohort Analysis help businesses better understand customer behavior, improve retention, and increase revenue through personalized marketing and engagement strategies.
 
 ## 📬 Contact
-Prahadheesh S
-Data Science Enthusiast
+Prahadheesh S<br>
+Data Science Enthusiast<br>
 GitHub: https://github?Prahadheesh26
+
 
